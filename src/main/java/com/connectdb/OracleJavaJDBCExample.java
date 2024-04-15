@@ -14,6 +14,7 @@ public class OracleJavaJDBCExample {
 		String USER = "sys as sysdba";
 		String PASS = "sorit";
 		
+		
 		// Creating Connection
 		
 			try {
