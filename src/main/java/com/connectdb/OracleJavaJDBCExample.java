@@ -13,6 +13,7 @@ public class OracleJavaJDBCExample {
 		String DB_URL = "jdbc:oracle:thin:@//localhost:1521/XEPDB1";
 		String USER = "sys as sysdba";
 		String PASS = "sorit";
+		
 		// Creating Connection
 		
 			try {
